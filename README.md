@@ -1,4 +1,4 @@
-# OS_Assignment-2
+# OS_Assignment
 #FCFS, LRU and Quizes
 Interactive OS simulation platform demonstrating
 PRIORITY (NON PREEMPTIVE) SCHEDULING ALGORITHM 
