@@ -1,2 +1,3 @@
 # OS_SIMULATOR
-FCFS, LRU and Quizes
+#FCFS, LRU and Quizes
+
